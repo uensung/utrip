@@ -191,6 +191,7 @@
 
   .section2 .txt {
     font-size: 14px;
+    width: calc(100% - 60px);
   }
 
   .section2 .title {
@@ -200,6 +201,7 @@
   .section2 .title .quot_start {
     height: 10px;
     margin-right: 0px;
+    margin-left 10px;
   }
 
   .section2 .title .quot_end {
@@ -208,7 +210,7 @@
   }
 
   .section2 .title .inner {
-    width: 410px;
+    width: 100%;
     margin-bottom: 50px;
   }
 
@@ -329,13 +331,13 @@
   }
 
   .section5 .text_area {
-    width: 180px;
+    width: calc(100% - 40px);
     margin: 40px auto 15px;
     font-size: 30px;
   }
 
   .footer .area_list {
-    width: 480px;
+    width: 100%;
     margin: 0px auto;
   }
 
