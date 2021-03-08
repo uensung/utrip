@@ -31,7 +31,7 @@
   }
 
   .section2 .content li {
-    width: 45%;
+    width: calc(50% - 40px);
     margin: 20px;
   }
 
@@ -218,7 +218,7 @@
   }
 
   .section2 .content li {
-    width: 94%;
+    width: calc(100% - 40px);
     margin: 20px;
   }
 
